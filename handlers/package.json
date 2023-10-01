@@ -1,0 +1,11 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "description": "WebSockets Demo",
+  "author": "SAM CLI",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.739.0"
+  }
+}
